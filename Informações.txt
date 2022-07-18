@@ -1,1 +1,2 @@
 Primeiro arquivo de texto
+Meu primeiro commit via cli do Git
